@@ -1,0 +1,22 @@
+# ninja log v6
+4829	4915	1747867704829968539	servicios_1005	855c2036e739e7f5
+11	4829	1747867700011899520	CMakeFiles/servicios_1005.dir/main.cpp.o	43d9b5817140ebdf
+4994	5090	1747871337920250961	proyecto-progra-service	ece9c7019f4f44c0
+1	65	1747871376262475581	build.ninja	a3b514ef893e222e
+12	4994	1747871332938120451	CMakeFiles/proyecto-progra-service.dir/main.cpp.o	c5379d56ac2267e1
+9	4996	1747871429699234440	CMakeFiles/proyecto-progra-service.dir/main.cpp.o	c5379d56ac2267e1
+4997	5084	1747871434686611839	proyecto-progra-service	ece9c7019f4f44c0
+34	5072	1747871564062959983	CMakeFiles/proyecto-progra-service.dir/main.cpp.o	c5379d56ac2267e1
+5072	5162	1747871569100914655	proyecto-progra-service	ece9c7019f4f44c0
+18	4855	1747871705067742548	CMakeFiles/proyecto-progra-service.dir/main.cpp.o	c5379d56ac2267e1
+4855	4950	1747871709905259331	proyecto-progra-service	ece9c7019f4f44c0
+11	4911	1747871785757927831	CMakeFiles/proyecto-progra-service.dir/main.cpp.o	c5379d56ac2267e1
+4912	5003	1747871790658339406	proyecto-progra-service	ece9c7019f4f44c0
+11	4953	1747871999233938007	CMakeFiles/proyecto-progra-service.dir/main.cpp.o	c5379d56ac2267e1
+4954	5046	1747872004176993049	proyecto-progra-service	ece9c7019f4f44c0
+10	4996	1747872330267379587	CMakeFiles/proyecto-progra-service.dir/main.cpp.o	c5379d56ac2267e1
+4997	5088	1747872335254159949	proyecto-progra-service	ece9c7019f4f44c0
+12	4497	1747872673745594569	CMakeFiles/proyecto-progra-service.dir/main.cpp.o	c5379d56ac2267e1
+4497	4587	1747872678231311991	proyecto-progra-service	ece9c7019f4f44c0
+11	5158	1747874153338233405	CMakeFiles/proyecto-progra-service.dir/main.cpp.o	c5379d56ac2267e1
+5158	5252	1747874158485413831	proyecto-progra-service	ece9c7019f4f44c0

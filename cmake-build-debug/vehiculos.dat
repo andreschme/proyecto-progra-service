@@ -1,0 +1,37 @@
+[
+    {
+        "id": 3,
+        "modelo": "hiluyx",
+        "descripcion": "toyota",
+        "color": "gris",
+        "anio": 2018
+    },
+    {
+        "id": 4,
+        "modelo": "hiluyx",
+        "descripcion": "toyota",
+        "color": "gris",
+        "anio": 2018
+    },
+    {
+        "id": 5,
+        "modelo": "hiluyx",
+        "descripcion": "toyota",
+        "color": "gris",
+        "anio": 2018
+    },
+    {
+        "id": 7,
+        "modelo": "hiluyx",
+        "descripcion": "toyota",
+        "color": "gris",
+        "anio": 2018
+    },
+    {
+        "id": 8,
+        "modelo": "xolo",
+        "descripcion": "asdf",
+        "color": "xsdf",
+        "anio": 1015
+    }
+]

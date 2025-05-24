@@ -1,0 +1,44 @@
+[
+    {
+        "id": 36,
+        "nombre": "RIQUELMER GARCIA",
+        "edad": 22,
+        "genero": "Masculino",
+        "grado": "Universitario"
+    },
+    {
+        "id": 38,
+        "nombre": "MARNA MAZAT",
+        "edad": 23,
+        "genero": "Masculino",
+        "grado": "Diversificado"
+    },
+    {
+        "id": 40,
+        "nombre": "Maria Jose Hernandez",
+        "edad": 21,
+        "genero": "Femenino",
+        "grado": "Diversificado"
+    },
+    {
+        "id": 41,
+        "nombre": "Alicia Gonzalez",
+        "edad": 25,
+        "genero": "Femenino",
+        "grado": "Diversificado"
+    },
+    {
+        "id": 42,
+        "nombre": "Rosario Tijeras",
+        "edad": 56,
+        "genero": "Femenino",
+        "grado": "Universitario"
+    },
+    {
+        "id": 43,
+        "nombre": "Slow Angel",
+        "edad": 23,
+        "genero": "Masculino",
+        "grado": "Diversificado"
+    }
+]

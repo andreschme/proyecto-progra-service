@@ -1,0 +1,3 @@
+/Users/andavi/Developer/UMG/CPP/proyecto-progra-service/cmake-build-debug/CMakeFiles/proyecto-progra-service.dir
+/Users/andavi/Developer/UMG/CPP/proyecto-progra-service/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/andavi/Developer/UMG/CPP/proyecto-progra-service/cmake-build-debug/CMakeFiles/rebuild_cache.dir
